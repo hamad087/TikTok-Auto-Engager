@@ -1,0 +1,8 @@
+{
+  "openai_key": "ضع_مفتاحك_هنا",
+  "tiktok_profiles": [
+    {"username": "اسم_الحساب1", "password": "كلمة_السر1"},
+    {"username": "اسم_الحساب2", "password": "كلمة_السر2"}
+  ],
+  "delays": {"min": 2, "max": 5}
+}
